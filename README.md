@@ -1,4 +1,4 @@
-# PERSEBARAN SPBU KABUPATEN SLEMAN (emukan SPBU Terdekat dengan Fasilitas Sempurna, Sesuai Kebutuhanmu!)
+# PERSEBARAN SPBU KABUPATEN SLEMAN (Temukan SPBU Terdekat dengan Fasilitas Sempurna, Sesuai Kebutuhanmu!)
 
 Projek ini diguanakan untuk mempermudah masyarakat khusunya wisatawan untuk mencari SPBU terdekat untuk beristirahat maupun melakukan pengisian bahan bakar. projek ini juga membantu dalam mengurangi waktu pencarian lokasi pemberhentian dikarenakan bisa melakukan filter pada fasilitas yang ada.
 
